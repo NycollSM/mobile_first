@@ -1,3 +1,74 @@
+* {
+  margin: 0;
+  padding: 0; }
 
+.main-container {
+  font-family: Myriad Pro; }
+
+a {
+  text-decoration: none; }
+
+.header {
+  height: 50px;
+  background: #373c3f;
+  color: white; }
+
+.burger {
+  float: right;
+  height: 50px;
+  width: 25%;
+  border: 0pc solid; }
+
+.blue {
+  padding: 8%;
+  background: #16b1c4;
+  color: white; }
+
+.blue h2 {
+  text-align: center; }
+
+.blue a {
+  text-align: center;
+  color: white; }
+
+.menu-desktop {
+  display: none; }
+
+.black {
+  width: 75%;
+  padding: 3%;
+  background: #27212c;
+  color: #786a83;
+  text-align: center; }
+
+.pink {
+  padding: 3%;
+  float: right;
+  width: 25%;
+  background: #bc3183; }
+
+.purple {
+  height: 275px;
+  background: #5b0fa1; }
+
+.elements {
+  margin: 0; }
+
+.elements img {
+  width: 320px;
+  display: block; }
+
+.footer {
+  background: #ebebeb;
+  color: #333333;
+  text-align: center; }
+
+.footer a {
+  padding: 5% 0;
+  font-size: 19px;
+  color: #16b1c4; }
+
+.footer p {
+  margin: 5%; }
 
 /*# sourceMappingURL=styles.css.map */
